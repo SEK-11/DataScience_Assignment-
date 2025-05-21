@@ -9,7 +9,7 @@ Whether you're brushing up on statistics, diving into machine learning models, o
 ![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/your-repo-name?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/yourusername/your-repo-name?style=social)
 ![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/your-repo-name)
-![License](https://img.shields.io/badge/license-MIT-green)
+
 
 ---
 
@@ -85,6 +85,4 @@ If you find this project helpful, consider giving it a ⭐ — it means a lot an
 
 ---
 
-## 📄 License
 
-Licensed under the **MIT License** — use, modify, and share freely.
